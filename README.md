@@ -1,11 +1,10 @@
-# StartupLens Lite
+# Startup Lens
 
-StartupLens Lite is a web application that helps entrepreneurs, students, startup founders, and investors quickly evaluate a business idea before investing significant time or money into it.
-
-Think of it as a "Startup Health Check Tool." 
+Startup Lens is a web application that helps entrepreneurs, students, startup founders, and investors quickly evaluate a business idea before investing significant time or money into it.
+It can be thought as a "Startup Health Check Tool." 
 
 ## Features
-- **AI Analysis:** Submit your idea and receive AI-driven feedback instantly.
+- **AI Analysis:** User can submit ideas and receive AI-driven feedback instantly.
 - **Score:** Get a 0-100 score indicating startup viability.
 - **SWOT:** Automated strengths, weaknesses, opportunities, and threats analysis.
 - **Reports:** Generate PDF reports for sharing or pitching.
